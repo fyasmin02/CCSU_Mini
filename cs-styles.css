@@ -1,0 +1,24 @@
+
+body {
+    background-color: #fafafa;
+}
+
+.bi-people-fill, .bi-briefcase-fill, .bi-mortarboard-fill{
+   color: #6495EDFF;
+    font-size: 4rem;
+}
+
+.bi-check-lg{
+    color: green;
+}
+
+
+.custom-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.mt-0{
+    margin-top: 3rem !important;
+}
